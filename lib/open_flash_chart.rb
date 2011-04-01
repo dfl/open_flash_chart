@@ -31,3 +31,5 @@ require 'open_flash_chart/upload_image'
 
 require 'open_flash_chart/ofc_ajax'
 require 'open_flash_chart/open_flash_chart_object'
+
+require 'open_flash_chart/linear_regression'
